@@ -3,15 +3,23 @@
 ### 2. 使用 `node insert_accounts.js` 初始化帳號
 
 * 成功新增帳號
+
 ![alt text](./image/insert_accounts.png)
 
 * 成功後到資料庫裡查看資料表內容
+
 ![alt text](./image/Accounts.png)
 
 ### 3. 使用 `node server.js` 啟動伺服器
 
 * 頁面展示
+
 ![alt text](./image/login_html.png)
 
 * 登入成功
+
 ![alt text](./image/login_success.png)
+
+* 登入失敗
+
+![alt text](./image/login_fail.png)
