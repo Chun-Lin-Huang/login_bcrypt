@@ -3,7 +3,6 @@
 ### 2. 使用 `node insert_accounts.js` 初始化帳號
 
 * 成功新增帳號
-
 ![alt text](./image/insert_accounts.png)
 
 * 成功後到資料庫裡查看資料表內容
@@ -16,6 +15,3 @@
 
 * 登入成功
 ![alt text](./image/login_success.png)
-
-* 登入失敗
-![alt text](./image/login_fail.png)
